@@ -1,0 +1,12 @@
+# COCO  dataset https://universe.roboflow.com/object-detection-mcn2f/tv_akisi/dataset/1
+
+download: bash ./scripts/get_coco.sh
+
+
+
+# number of classes
+nc: 8
+
+# class names
+names: ['kanald_icon', 'kanald_reklam_iconu', 'reklam_yazi', 'show_icon',
+        'show_reklam_iconu', 'star_icon', 'star_reklam-iconu']
