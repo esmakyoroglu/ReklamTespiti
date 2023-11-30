@@ -1,4 +1,4 @@
-# ReklamTespiti
+# Reklam Tespiti
 Kanal d , Star ve Show tv'nin kanal iconlarının reklamlarda değişikliklerini tespit ederek,
 Roboflow üzerinden televizyon kanallarının iconlarını eğiterek 
 Yüklediğim videolar üzerinde reklamlar ve reklamlar başladı şeklinde video üzerinden çıktı aldığım proje
